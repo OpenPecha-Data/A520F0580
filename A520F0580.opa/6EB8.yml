@@ -1,0 +1,37 @@
+segment_sources:
+  I15F45FF4:
+    type: origin_type
+    relation: translation
+    base: 1EB0
+    lang: en
+  I8820EE0E:
+    type: origin_type
+    relation: translation
+    base: 0418
+    lang: zh
+  IB46AE326:
+    type: origin_type
+    relation: translation
+    base: AD78
+    lang: bo
+segment_pairs:
+  ff00b9e5db0e4b918b99dd9045bc2963:
+    I15F45FF4: 1f2f276d67de4ef2adf434c7ab63683d
+    I8820EE0E: 339344433a604983980a7f9ee77e24e2
+    IB46AE326: da1e234bafd546e6a483f7a2a923fe2e
+  fcd6c89d0f8a45229a60a98b7e2cd343:
+    I15F45FF4: 80b120f626764b79b30170c2cb09d09f
+    I8820EE0E: 9e684538244843209c63307a9e67d51d
+    IB46AE326: 72d7b4d0b6c04ee8a66cb23402b267f3
+  4a5e599f3ab54417b449ef8dae00872d:
+    I15F45FF4: cc65a85929e04a6088128f2810d8ceb6
+    I8820EE0E: 2e0c5411ae80404c910a7eb43511c593
+    IB46AE326: 1255c0d7acba4a9bae20417e4b5cd287
+  a396b882044e46a9a68a2d692d43a4f9:
+    I15F45FF4: 0ab4bddf387b4ecc88f6787ce76f977d
+    I8820EE0E: 33f1b1aa65624bdfb2aa6d46fa340b67
+    IB46AE326: bcd51b67dae44bb99e17df4afbf94ee5
+  bcdcc9bb3f3248b38038aa8328f8c882:
+    I15F45FF4: c3c486f7d2bd4a84a7d96ab5f95f354c
+    I8820EE0E: 5ea523a4a4cb4adc879864e6dc0651fe
+    IB46AE326: d3a7e956d4114f9f98a053cf94d2c93e

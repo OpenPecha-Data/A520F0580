@@ -1,0 +1,22 @@
+id: A520F0580
+title: Prayer to Pacify Military Conflict
+type: translation
+pechas:
+- I15F45FF4
+- I8820EE0E
+- IB46AE326
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:53:09.393378
+  last_modified_at: 2023-01-04 12:53:09.393398
+  collections:
+  - Khenpo Gangshar Wangpo
+  - Works of Tibetan Masters
+alignment_to_base:
+  I15F45FF4/1EB0: 6EB8
+  I8820EE0E/0418: 6EB8
+  IB46AE326/AD78: 6EB8
